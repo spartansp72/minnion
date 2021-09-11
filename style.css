@@ -1,3 +1,4 @@
+
 textarea {
     width: 80%;
     height: 10vh;
@@ -20,13 +21,18 @@ textarea {
 }
 .header{
     text-align: center;
+    font-family: 'Luckiest Guy', Arial;
+    text-transform: none;
     background-color: #0A75BC;
     color: #FCE029;
     margin: 0px;
+    font-size: 2.5vw;
+    text-shadow: rgb(192, 143, 24) 1px 1px 0px, rgb(192, 143, 24) 2px 2px 0px, rgb(68, 68, 68) 3px 3px 0px, rgb(68, 68, 68) 4px 4px 0px, rgb(68, 68, 68) 5px 5px 0px, rgb(68, 68, 68) 6px 6px 0px, rgb(153, 153, 153) 5px 5px 15px;
 }
 body{
     background-color:#FCE029 ;
     color: #0A75BC;
+    font-family: 'Luckiest Guy', Arial;
 }
 textarea{
     background-color: whitesmoke;
