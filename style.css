@@ -4,6 +4,7 @@ textarea {
     display: block;
     margin: 1rem;
     padding: 1rem;
+    justify-content: center;
 }
 
 #output {
@@ -13,7 +14,9 @@ textarea {
     margin: 1rem;
     padding: 1rem;
     background-color: whitesmoke;
-    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .header{
     text-align: center;
@@ -27,7 +30,9 @@ body{
 }
 textarea{
     background-color: whitesmoke;
-    margin-left: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
     
 }
 button{
@@ -40,6 +45,7 @@ button{
     margin-left: 200px;
     padding: 10px 24px;
     font-size: 24px;
+    justify-content: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h2{
