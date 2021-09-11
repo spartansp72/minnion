@@ -33,6 +33,8 @@ body{
     background-color:#FCE029 ;
     color: #0A75BC;
     font-family: 'Luckiest Guy', Arial;
+    background-image: url("/images/bg.jpg");
+    background-size: cover;
 }
 textarea{
     background-color: whitesmoke;
